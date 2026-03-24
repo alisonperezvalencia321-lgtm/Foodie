@@ -63,11 +63,11 @@ st.markdown("""
             background-color: #f1f8e9;
         }
     </style>
-""", unsafe_allow_color_html=True)
+""", unsafe_allow_html=True)
 
 # 🥑 Cabecera de la App
 st.write("") # Espaciado
-st.markdown("<h1>🥑 SmartBites: Tu IA de Nutrición</h1>", unsafe_allow_color_html=True)
+st.markdown("<h1>🥑 SmartBites: Tu IA de Nutrición</h1>", unsafe_allow_html=True)
 st.write("Día Completo: **650 kcal | 60g Proteína**")
 st.write("---")
 
