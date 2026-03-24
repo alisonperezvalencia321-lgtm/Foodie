@@ -154,4 +154,4 @@ with st.expander("🍓 Merienda: Dúo Saciedad (167 kcal)"):
 
 st.write("")
 st.write("---")
-st.markdown("Made with ❤️ for Leiria | SmartBites IA v1.1", unsafe_allow_color_html=True)
+st.markdown("Made with ❤️ for Leiria | SmartBites IA v1.1", unsafe_allow_html=True)
